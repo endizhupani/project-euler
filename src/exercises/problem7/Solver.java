@@ -29,6 +29,8 @@ public class Solver {
             if (isPrime) {
                 System.out.println(i);
             }
+
+            //test
         }
     }
 }
